@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [],
+  "type": "module",
   "scripts": {
     "client": "nodemon src/client.js",
     "server": "nodemon src/server.js"
